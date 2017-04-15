@@ -1,0 +1,55 @@
+nav {
+    background-color: antiquewhite;
+    height: 40px;
+}
+
+nav a:hover {
+    background-color: lawngreen;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    float: left;
+}
+
+nav li {
+    display:inline-block;
+    padding-right: 30px;
+}
+
+.buttons {
+    position: relative;
+    left: -350px;
+    top: 50px;
+}
+
+button {
+    border: none;
+}
+
+#one {
+    color: white;
+    border-radius: 10px;
+}
+
+#two {
+    color: blueviolet;
+    background-color: greenyellow;
+    width: 100px;
+}
+
+#three {
+    border-radius: 10px;
+    background-color: bisque;
+    width: 130px;
+    height: 30px;
+}
+
+
+
+
+
+
